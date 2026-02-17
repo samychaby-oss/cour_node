@@ -1,16 +1,16 @@
-const users = [
-  {
-    id: 1,
-    name: "samy",
-    email: "john@test.com",
-  },
-  {
-    id: 2,
-    name: "testo",
-    email: "testo@test.com",
-  },
-];
+// const users = [
+//   {
+//     id: 1,
+//     name: "samy",
+//     email: "john@test.com",
+//   },
+//   {
+//     id: 2,
+//     name: "testo",
+//     email: "testo@test.com",
+//   },
+// ];
 
-export function getUsers() {
-  return users;
-}
+// export function getUsers() {
+//   return users;
+// }
